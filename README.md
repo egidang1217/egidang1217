@@ -8,4 +8,4 @@
 * **도구**: git, github, vs code
 
 ## 취미
-
+* :trollface: 분탕을 좋아합니다(재밌잖아요)
